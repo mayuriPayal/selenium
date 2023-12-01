@@ -1,0 +1,15 @@
+package operators;
+
+public class conditional_statement {
+
+	public static void main(String[] args) {
+
+		int personage=10;
+		
+		if (personage>18)
+		{
+			System.out.println("eligible for vote");
+		}
+	}
+
+}

@@ -1,0 +1,16 @@
+package practice1;
+
+ class methodsMain {
+	static void spell()
+	{
+		System.out.println("hello");
+	}
+	public static void main(String[] args) {
+
+		//methods1 obj=new methods1();
+		//obj.spell();
+		
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+package new1;
+
+public class hello {
+	void h() 
+	{
+	String name="hello";
+	}
+	public static void main(String[] args) {
+
+	//	System.out.println("hello world");
+		
+	//String name="hello";
+	//System.out.println(name);
+		hello obj=new hello();
+		obj.h();
+		
+	}
+
+}

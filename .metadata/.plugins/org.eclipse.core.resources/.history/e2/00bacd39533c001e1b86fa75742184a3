@@ -1,0 +1,67 @@
+package new1;
+
+public class hello {
+	
+/*	void add() {
+	int a=10;
+	int b=20;
+	int temp;
+	temp=a;
+	a=b;
+	b=temp;*/
+/*	System.out.println("a is"+a);
+	System.out.println("b is"+b);
+
+	//int c=-b;
+//System.out.println(c);
+
+	}*/
+	public static void main(String[] args) {
+
+		//System.out.println("hello world");
+		//String name="hello";
+	   //System.out.println(name);
+	/*int a=20;
+		int b=30;
+		int c=a+b;*/
+	//	hello obj1=new hello();
+	//	obj1.add();
+	//System.out.println(c);
+		/*	temp=a;
+	a=b;
+	b=temp;
+	System.out.println(a + b + c);*/
+/*     int a=200, b=100;
+	int x= a>b ? a : b;
+System.out.println(x);*/
+	/*	int a=1000;
+	int	b=2000;
+	System.out.println(a>b); // true
+	System.out.println(a<b); // false		
+		
+	/*int	x=b<a? b: a;
+		
+		System.out.println(x);  
+		
+x=(1==1)?100:200;
+		
+		System.out.println(x);//100*/
+			
+		
+	int a= 10;
+	a++;
+	++a;
+	System.out.println(a);
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+}
+}

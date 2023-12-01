@@ -1,0 +1,31 @@
+package August;
+
+class a{
+	int a=23;
+	int b=20;
+	
+	void add()
+	{
+		int c=a+b;
+		System.out.println("add is="+c);
+	}
+}
+
+public class single_in extends a
+{
+	void sub()
+	{
+		int d =a-b;
+		System.out.println(d);
+	}
+	
+	
+
+	public static void main(String[] args) {
+
+		single_in obj=new single_in();
+		obj.add();
+		obj.sub();
+	}
+
+}

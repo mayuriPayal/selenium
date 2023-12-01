@@ -1,0 +1,17 @@
+package practice1;
+
+public class methods1 {
+	
+	void greeting ()
+	
+	{
+		System.out.println("hello");
+	}
+	
+	String greeting1 ()
+	{
+		return "how are u";
+		//System.out.println("are");
+	}
+
+}

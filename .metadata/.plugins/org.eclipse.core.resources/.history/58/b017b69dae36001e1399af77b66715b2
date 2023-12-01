@@ -1,0 +1,27 @@
+package operators;
+
+public class conditional_statement {
+
+	public static void main(String[] args) {
+
+		//age 
+	/*	int personage=20;
+		if (personage>18)
+		{
+			System.out.println("eligible for vote");
+		}*/
+		
+	int num =10;
+		
+	if(num%2==0)
+	{
+		System.out.println("number is even");
+	}
+	else
+	{
+		System.out.println("number is odd");
+
+	}
+	}
+
+}

@@ -1,0 +1,10 @@
+package practice1;
+
+public class methods1 {
+	
+	static void spell()
+	{
+		System.out.println("hello");
+	}
+
+}

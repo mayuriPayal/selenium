@@ -1,0 +1,47 @@
+package operators;
+
+import java.util.Scanner;
+
+public class conditional_statement {
+
+	public static void main(String[] args) {
+
+		//age 
+	/*	int personage=20;
+		if (personage>18)
+		{
+			System.out.println("eligible for vote");
+		}
+	//evenodd	
+	int num =5;
+		
+	if(num%2==0)
+	{
+		System.out.println("number is even");
+	}
+	else
+	{
+		System.out.println("number is odd");
+
+	}*/
+		//positive or negative
+		
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		if(a>0)
+		{
+			System.out.println("positive");
+		}
+		else if(a<0)
+		{
+			System.out.println("negative");
+	     }
+		else 
+		{
+			System.out.println("equal");
+		}
+		
+		
+	}
+
+}

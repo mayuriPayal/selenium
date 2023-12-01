@@ -1,0 +1,14 @@
+package practice1;
+
+ class methodsMain {
+	
+	public static void main(String[] args) {
+
+	methods1 obj=new methods1();
+//	obj.greeting();
+		
+	obj.greeting1()	;
+		
+	}
+
+}

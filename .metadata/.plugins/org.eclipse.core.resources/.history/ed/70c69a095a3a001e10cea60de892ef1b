@@ -1,0 +1,9 @@
+package newtest;
+
+import org.testng.annotations.Test;
+
+public class annotation {
+  @Test
+  public void f() {
+  }
+}

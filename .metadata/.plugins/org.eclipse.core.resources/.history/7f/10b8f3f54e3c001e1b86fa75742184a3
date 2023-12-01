@@ -1,0 +1,14 @@
+package new1;
+
+public class hello {
+	String name="hello";
+	
+	public static void main(String[] args) {
+
+		System.out.println("name");
+		
+	//String name="hello";
+	//System.out.println(name);
+	
+}
+}

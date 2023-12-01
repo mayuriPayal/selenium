@@ -1,0 +1,12 @@
+package practice1;
+
+public class methodsMain {
+
+	public static void main(String[] args) {
+
+		methods1 obj=new methods1();
+		obj.spell();
+		
+	}
+
+}
